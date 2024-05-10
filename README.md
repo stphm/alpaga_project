@@ -1,1 +1,0 @@
-# alpaga_project
